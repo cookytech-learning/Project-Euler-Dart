@@ -4,7 +4,7 @@ description: >-
   Project Euler is a project based around solving matematical problems with programming.
   This is a really good exercise of both our mathematical and programming skills.
 environment:
-  sdk: '>=2.0.0 <3.0.0'
+  sdk: '>=2.9.0 <3.0.0'
 dependencies:
   quiver: ^2.1.3
 dev_dependencies:

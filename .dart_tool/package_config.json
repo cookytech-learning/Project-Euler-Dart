@@ -317,10 +317,10 @@
       "name": "project_euler_in_dart",
       "rootUri": "../",
       "packageUri": "lib/",
-      "languageVersion": "2.0"
+      "languageVersion": "2.9"
     }
   ],
-  "generated": "2020-09-16T04:43:28.695585Z",
+  "generated": "2020-09-16T10:56:25.827350Z",
   "generator": "pub",
   "generatorVersion": "2.10.0-7.3.beta"
 }

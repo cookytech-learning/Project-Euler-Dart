@@ -1,4 +1,4 @@
-import 'package:project_euler_in_dart/multiples_of_3_n_5.dart';
+import 'package:project_euler_in_dart/src/multiples_of_3_n_5.dart';
 import "package:test/test.dart";
 
 main(List<String> args) {
