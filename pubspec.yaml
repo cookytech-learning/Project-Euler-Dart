@@ -1,0 +1,10 @@
+name: project_euler_in_dart
+version: 1.2.3
+description: >-
+  Project Euler is a project based around solving matematical problems with programming.
+  This is a really good exercise of both our mathematical and programming skills.
+environment:
+  sdk: '>=2.0.0 <3.0.0'
+# dependencies:
+dev_dependencies:
+  test: ^1.15.3
