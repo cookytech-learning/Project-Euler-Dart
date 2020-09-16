@@ -5,6 +5,7 @@ description: >-
   This is a really good exercise of both our mathematical and programming skills.
 environment:
   sdk: '>=2.0.0 <3.0.0'
-# dependencies:
+dependencies:
+  quiver: ^2.1.3
 dev_dependencies:
   test: ^1.15.3
